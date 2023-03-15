@@ -32,4 +32,4 @@ yay --needed -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd noto-fonts-emoji
 
 1. [nawfalmrouyah](https://github.com/nawfalmrouyan/hyprland)
 2. [owl410](https://notabug.org/owl410/owl_dotfiles/src/master/Hyprland/Hypr_Arch)
-3. [Petingoso](https://github.com/Petingoso/dotfiles/blob/master/dot_local/bin/executable_hypr_bindings)
+3. [Petingoso](https://github.com/Petingoso/dotfiles)
